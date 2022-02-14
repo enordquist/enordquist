@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enordquist
-- 👀 I’m interested in biophysics, physical chemistry and post-secondary education.
-- 🌱 I’m currently learning integration of biophysical modeling and simulation with experimental data using statistical modeling.
+- 👀 I’m interested in biophysics, physical chemistry, molecular modeling and simulation, and post-secondary education.
+- 🌱 I’m currently working on a PhD at UMass Amherst.
 - 📫 How to reach me at erikbnordquist@gmail.com ; eriknordquist.com
 
 <!---
