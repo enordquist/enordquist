@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enordquist
 - 👀 I’m interested in biophysics, physical chemistry, molecular modeling and simulation, and post-secondary education.
-- 🌱 I’m currently working on a PhD at UMass Amherst.
+- 🌱 I’m currently a PhD candidate in the UMass Amherst Chemistry Department.
 - 📫 How to reach me at erikbnordquist@gmail.com ; eriknordquist.com
 
 <!---
